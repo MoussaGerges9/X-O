@@ -1,1 +1,1 @@
-# X-O
+The famous XO game using C# console
