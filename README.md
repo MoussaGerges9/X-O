@@ -1,1 +1,1 @@
-The famous XO game using C# console
+The famous X O, tic tac toe game using C# console
